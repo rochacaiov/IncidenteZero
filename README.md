@@ -29,19 +29,20 @@ Esse sistema permite o gerenciamento de incidentes garantindo o cadastro, manute
 ## Endpoints
 #### ```/incidents```
 * **POST:** Cadastro de incidentes
-  > ```name: String``` @REQUIRED
 
-  > ```description: String``` @REQUIRED
+  ➜ ```name: String``` @REQUIRED
 
+  ➜ ```description: String``` @REQUIRED
+
+#### ```/incidents/{id}```
 * **PUT:** Manutenção de incidentes
-  > ```idIncident: int``` @REQUIRED
 
-  > ```name: String``` @OPTIONAL
+  ➜ ```name: String``` @OPTIONAL
 
-  > ```description: String``` @OPTIONAL
+  ➜ ```description: String``` @OPTIONAL
 
 * **DELETE:** Remoção de incidentes
-  > ```idIncident: int``` @REQUIRED
+
 
 </br>
 </br>
