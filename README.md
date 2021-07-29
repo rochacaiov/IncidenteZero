@@ -93,7 +93,7 @@ $ docker compose up -d
 </br>
 
 ## License
-Distributed under the MIT License. See [LICENSE](https://github.com/vrochacaio/IncidenteZero/blob/main/LICENSE) for more information.
+Distributed under the Apache License 2.0. See [LICENSE](https://github.com/vrochacaio/IncidenteZero/blob/main/LICENSE) for more information.
 
 </br>
 
