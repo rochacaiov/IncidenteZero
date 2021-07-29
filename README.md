@@ -55,11 +55,13 @@ usuário a partir de operações REST.
 </br>
 
 ## Instalação
+Para obter uma cópia local, siga as seguintes etapas.
 
 ### Pré-requisitos
 
 * Java 11
 * Maven 3.6
+* Docker
 
 </br>
 
@@ -79,7 +81,7 @@ $ mvn clean install
 
 </br>
 
-### Uso
+## Uso
 
 1. Rodando o projeto com docker compose
 ```
@@ -90,12 +92,12 @@ $ docker compose up -d
 
 </br>
 
-### License
+## License
 Distributed under the MIT License. See [LICENSE](https://github.com/vrochacaio/IncidenteZero/blob/main/LICENSE) for more information.
 
 </br>
 
-### Contato
+## Contato
 Caio Rocha - [@CODIGO.ROCHA](https://linktr.ee/vrocha.caio)
 
 Project Link: https://github.com/vrochacaio/IncidenteZero
