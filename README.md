@@ -86,4 +86,4 @@ $ mvn clean install
 $ docker compose up -d
 ```
 
-2. Apos a conclusao do comando acima, pode-se fazer requisições HTTP nos endpoints apresentados: * [ENDPOINTS](https://github.com/vrochacaio/IncidenteZero#endpoints)
+2. Apos a conclusao do comando acima, pode-se fazer requisições HTTP nos endpoints apresentados: [ENDPOINTS](https://github.com/vrochacaio/IncidenteZero#endpoints)
