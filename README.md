@@ -26,8 +26,6 @@ usuário a partir de operações REST.
 * [H2 DATABASE]()
 
 </br>
-</br>
-</br>
 
 ## Endpoints
 
@@ -50,8 +48,6 @@ usuário a partir de operações REST.
 
 * **DELETE:** Remoção de incidentes
 
-</br>
-</br>
 </br>
 
 ## Instalação
