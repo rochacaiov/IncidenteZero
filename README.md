@@ -18,6 +18,7 @@ usuário a partir de operações REST.
 ## Construido com
 
 * [Java 11]()
+* [Docker]()
 * [Spring Boot]()
 * [Spring Web MVC]()
 * [Spring Data JPA]()
