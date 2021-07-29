@@ -76,3 +76,14 @@ $ git clone https://github.com/vrochacaio/IncidenteZero.git
 ```
 $ mvn clean install
 ```
+
+</br>
+
+### Uso
+
+1. Rodando o projeto com docker compose
+```
+$ docker compose up -d
+```
+
+2. Apos a conclusao do comando acima, pode-se fazer requisições HTTP nos endpoints apresentados: * [ENDPOINTS](https://github.com/vrochacaio/IncidenteZero#endpoints)
