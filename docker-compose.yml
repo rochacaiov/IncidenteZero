@@ -2,7 +2,7 @@ version: '3'
 services:
   app:
     build: .
-    image: vrochacaio/incidentezero
+    image: vrochacaio/incidentezero-app
     ports:
       - 8080:8080
     environment:
