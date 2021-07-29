@@ -86,4 +86,15 @@ $ mvn clean install
 $ docker compose up -d
 ```
 
-2. Apos a conclusao do comando acima, pode-se fazer requisições HTTP nos endpoints apresentados: [ENDPOINTS](https://github.com/vrochacaio/IncidenteZero#endpoints)
+2. Apos a conclusao do comando acima, pode-se fazer requisições HTTP nos endpoints existentes: [ENDPOINTS](https://github.com/vrochacaio/IncidenteZero#endpoints)
+
+</br>
+
+### License
+Distributed under the MIT License. See [LICENSE](https://github.com/vrochacaio/IncidenteZero/blob/main/LICENSE) for more information.
+
+</br>
+
+### Contato
+Caio Rocha - [@CODIGO.ROCHA](https://linktr.ee/vrocha.caio)
+Project Link: https://github.com/vrochacaio/IncidenteZero
