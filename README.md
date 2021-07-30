@@ -98,7 +98,7 @@ Para obter uma cópia local, siga as etapas seguintes.
     $ docker compose up -d
     ```
 
-2. Pronto! Agora faça as requisições através dos [Endpoints](https://github.com/vrochacaio/IncidenteZero#endpoints)
+2. Pronto! Agora faça as requisições através dos [Endpoints](https://github.com/vrochacaio/IncidenteZero#api-reference)
 
 </br>
 
