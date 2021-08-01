@@ -17,7 +17,7 @@
 </br>
 </br>
 
-<p align=center>Interface de aplicação para gerenciamento de incidentes
+<p align=center>Interface de programação de aplicação para gerenciamento de incidentes
 
 </br>
 </br>
